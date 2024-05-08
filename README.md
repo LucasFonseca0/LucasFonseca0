@@ -4,7 +4,7 @@
 
 ⚙️ I currently work with: TypeScript, Next.js, NestJS, React, Tailwind CSS, Docker, SQL, and noSQL.
 
-🎯 Technologies I'm eager to learn: Golang and Laravel.
+🎯 Technologies I'm eager to learn: C# and Laravel.
 
 
 ## 🌐 Socials:
