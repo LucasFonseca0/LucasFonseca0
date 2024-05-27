@@ -1,12 +1,8 @@
-Entendido! Vou organizar o seu perfil exatamente como o do Marcos, com as divisões semelhantes e incluindo C# e .NET.
-
----
-
 # 👨‍💻 About Me:
 
 👋 Hello! I'm a Full Stack Developer.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style-for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrlfonseca/)
 
 # 💻 Tech Stack:
